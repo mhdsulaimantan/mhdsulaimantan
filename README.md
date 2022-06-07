@@ -6,8 +6,8 @@
   <li>I'm <strong>Mohammad Sulaiman Tanbari</strong> &#x1F935;.</li>
   <li>I'm a <strong>Computer Engineer</strong> &#128421;.</li> 
   <li>I have a curious personality that pushes me to learn new things every day &#x1F575;.</li> 
-  <li><strong>Fun fact: </strong>I'm in love with anything that use zeros and ones &#10084;.</li>
-  <li>&#x1F6D1; This is my second github account. it is for studying purposes.&#x1F6D1;</li>
+  <li><strong>Fun fact: </strong>I'm in love with anything that run using zeros and ones &#10084;.</li>
+  <li>&#x1F6D1;This is my second github account. it is for studying purposes.&#x1F6D1;</li>
   <li>You can visit my main account: <a href="https://github.com/mhdsulaiman">Here</a></li>
 </ul>
 <h3>Contact Me:</h2>
