@@ -22,6 +22,13 @@
     <img src="https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png" alt="Instagram Badge" width="50"/>
   </a>
 </div>
+<h3>Other Profiles:</h3>
+   <a href="https://leetcode.com/MST12N6/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Badge" width="50"/>
+   </a>
+   <a href="https://replit.com/@Mohammad-Sulaim">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" alt="Replit Badge" width="50"/>
+   </a>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhdsulaimantan&theme=dark&background=000000)](https://git.io/streak-stats)
