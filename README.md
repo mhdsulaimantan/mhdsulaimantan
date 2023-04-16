@@ -13,13 +13,10 @@
 <h3>Contact Me:</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohammad-sulaiman-tanbari/">
-    <img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="LinkedIn Badge" width="50"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/linkedin-sociocon.png" alt="LinkedIn Badge" width="50"/>
   </a>
   <a href="mailto:suliman.tanbari@hotmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Outlook Badge" width="50"/>
-  </a>
-   <a href="https://www.instagram.com/mst12n6/">
-    <img src="https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png" alt="Instagram Badge" width="50"/>
   </a>
 </div>
 <h3>Other Profiles:</h3>
